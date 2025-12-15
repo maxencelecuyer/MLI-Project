@@ -6,3 +6,4 @@
 - Create a pipeline for preprocessing the data and predicting the weight
 - Create a simple baseline and compare it with a model of your choosing between (Ridge, Lasso, ElasticNet)
 - Commit and push your changes to github
+- Have fun!
